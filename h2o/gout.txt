@@ -1,0 +1,133 @@
+o8
+h1
+h4
+H2O formed
+o5
+h0
+h3
+H2O formed
+o12
+h9
+h2
+H2O formed
+h6
+h10
+o11
+H2O formed
+h16
+h15
+o13
+H2O formed
+h24
+h7
+o14
+H2O formed
+o21
+h18
+h17
+H2O formed
+o28
+h20
+h19
+H2O formed
+o30
+h23
+h22
+H2O formed
+o31
+h29
+h25
+H2O formed
+o35
+h26
+h27
+H2O formed
+o38
+h33
+h32
+H2O formed
+o45
+h36
+h34
+H2O formed
+h37
+o50
+h39
+H2O formed
+o51
+h40
+h41
+H2O formed
+o52
+h42
+h43
+H2O formed
+o53
+h44
+h48
+H2O formed
+o56
+h46
+h47
+H2O formed
+o60
+h49
+h54
+H2O formed
+o61
+h55
+h57
+H2O formed
+o69
+h58
+h59
+H2O formed
+o70
+h63
+h62
+H2O formed
+o73
+h65
+h64
+H2O formed
+o74
+h66
+h67
+H2O formed
+o75
+h68
+h71
+H2O formed
+o77
+h72
+h76
+H2O formed
+o82
+h79
+h78
+H2O formed
+o84
+h80
+h81
+H2O formed
+o87
+h83
+h85
+H2O formed
+o92
+h86
+h89
+H2O formed
+o91
+h88
+h90
+H2O formed
+o96
+h93
+h94
+H2O formed
+o98
+h95
+h97
+H2O formed
+duration 2.000244

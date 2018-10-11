@@ -1,0 +1,7545 @@
+inserter added 0, (size=1)
+inserter added 1, (size=2)
+inserter added 2, (size=3)
+inserter added 3, (size=4)
+inserter added 4, (size=5)
+inserter added 5, (size=6)
+inserter added 6, (size=7)
+inserter added 7, (size=8)
+deleter removed 4
+inserter added 4, (size=8)
+inserter added 8, (size=9)
+inserter added 9, (size=10)
+deleter removed 7
+inserter added 7, (size=10)
+inserter added 10, (size=11)
+inserter added 11, (size=12)
+deleter removed 3
+inserter added 3, (size=12)
+inserter added 12, (size=13)
+searcher found 12, (size=13)
+inserter added 13, (size=14)
+inserter added 14, (size=15)
+inserter added 15, (size=16)
+inserter added 16, (size=17)
+searcher found 2, (size=13)
+inserter added 17, (size=18)
+inserter added 18, (size=19)
+inserter added 19, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+searcher found 16, (size=20)
+searcher found 10, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+searcher found 12, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+searcher found 0, (size=20)
+searcher found 7, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+searcher found 2, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+searcher found 1, (size=20)
+searcher found 16, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+searcher found 7, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+searcher found 13, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+searcher found 8, (size=20)
+searcher found 16, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+searcher found 14, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+searcher found 18, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+searcher found 6, (size=19)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+searcher found 7, (size=20)
+searcher found 5, (size=20)
+searcher found 19, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+searcher found 6, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+searcher found 4, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+searcher found 4, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+searcher found 13, (size=20)
+searcher found 12, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+searcher found 8, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+searcher found 3, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+searcher found 19, (size=20)
+searcher found 5, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+searcher found 1, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+searcher found 7, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+searcher found 13, (size=20)
+searcher found 19, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+searcher found 10, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+searcher found 11, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+searcher found 7, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+searcher found 4, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+searcher found 2, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+searcher found 8, (size=20)
+searcher found 17, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+searcher found 5, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+searcher found 13, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+searcher found 13, (size=19)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+searcher found 14, (size=19)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+searcher found 1, (size=20)
+searcher found 15, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+searcher found 0, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+searcher found 5, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+searcher found 17, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+searcher found 4, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+searcher found 5, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+searcher found 5, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+searcher found 5, (size=20)
+searcher found 4, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+searcher found 13, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+searcher found 10, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+searcher found 5, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+searcher found 6, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+searcher found 14, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+searcher found 5, (size=20)
+searcher found 13, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+searcher found 4, (size=20)
+searcher found 15, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+searcher found 3, (size=20)
+searcher found 1, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+searcher found 8, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+searcher found 4, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+searcher found 0, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+searcher found 7, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+searcher found 2, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+searcher found 8, (size=20)
+searcher found 14, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+searcher found 5, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+searcher found 18, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+searcher found 17, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+searcher found 13, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+searcher found 5, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+searcher found 0, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+searcher found 5, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+searcher found 8, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+searcher found 18, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+searcher found 5, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+searcher found 4, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+searcher found 11, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+searcher found 10, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+searcher found 6, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+searcher found 15, (size=20)
+searcher found 6, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 16
+searcher found 17, (size=19)
+inserter added 16, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+searcher found 12, (size=20)
+searcher found 1, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+searcher found 4, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+searcher found 11, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+searcher found 10, (size=20)
+searcher found 19, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+searcher found 8, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+searcher found 6, (size=20)
+searcher found 12, (size=20)
+searcher found 8, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+searcher found 17, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+searcher found 4, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 16
+searcher found 17, (size=19)
+inserter added 16, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+searcher found 6, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+searcher found 9, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+searcher found 13, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+searcher found 8, (size=20)
+searcher found 8, (size=20)
+searcher found 7, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+searcher found 1, (size=20)
+searcher found 4, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+searcher found 2, (size=20)
+searcher found 6, (size=20)
+searcher found 10, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+searcher found 8, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+searcher found 16, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+searcher found 15, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+searcher found 1, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+searcher found 11, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+searcher found 16, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+searcher found 17, (size=19)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+searcher found 6, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+searcher found 14, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+searcher found 0, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+searcher found 8, (size=20)
+searcher found 0, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+searcher found 17, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+searcher found 4, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+searcher found 13, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+searcher found 15, (size=20)
+searcher found 6, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+searcher found 14, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+searcher found 18, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+searcher found 19, (size=20)
+searcher found 6, (size=20)
+searcher found 19, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+searcher found 16, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+searcher found 6, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+searcher found 17, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+searcher found 16, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 6
+searcher found 16, (size=19)
+inserter added 6, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+searcher found 5, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+searcher found 4, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+searcher found 5, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+searcher found 18, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+searcher found 16, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+searcher found 8, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 14
+searcher found 0, (size=19)
+inserter added 14, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+searcher found 10, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+searcher found 2, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+searcher found 13, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+searcher found 15, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+searcher found 5, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+searcher found 11, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+searcher found 0, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+searcher found 14, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+searcher found 11, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+searcher found 1, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+searcher found 12, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+searcher found 4, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+searcher found 4, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+searcher found 2, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+searcher found 6, (size=20)
+searcher found 0, (size=20)
+searcher found 1, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 9
+searcher found 11, (size=19)
+inserter added 9, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+searcher found 6, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+searcher found 0, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+searcher found 11, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+searcher found 4, (size=20)
+searcher found 5, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+searcher found 3, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+searcher found 5, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+searcher found 5, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+searcher found 2, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+searcher found 3, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+searcher found 10, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+searcher found 1, (size=20)
+searcher found 3, (size=20)
+searcher found 18, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+searcher found 14, (size=20)
+searcher found 16, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+searcher found 6, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+searcher found 14, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+searcher found 17, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+searcher found 13, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 1
+searcher found 19, (size=19)
+inserter added 1, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+searcher found 11, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+searcher found 6, (size=20)
+searcher found 12, (size=20)
+searcher found 8, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+searcher found 5, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+searcher found 18, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+searcher found 14, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+searcher found 9, (size=20)
+searcher found 5, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+searcher found 13, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+searcher found 3, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+searcher found 5, (size=20)
+searcher found 11, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+searcher found 13, (size=20)
+searcher found 19, (size=20)
+searcher found 18, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+searcher found 19, (size=20)
+deleter removed 8
+inserter added 8, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 5
+inserter added 5, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+searcher found 13, (size=20)
+searcher found 9, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 9
+inserter added 9, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 4
+inserter added 4, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 10
+inserter added 10, (size=20)
+searcher found 2, (size=20)
+searcher found 1, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 3
+inserter added 3, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 15
+inserter added 15, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 16
+inserter added 16, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 11
+inserter added 11, (size=20)
+deleter removed 2
+inserter added 2, (size=20)
+deleter removed 7
+inserter added 7, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 1
+inserter added 1, (size=20)
+deleter removed 14
+inserter added 14, (size=20)
+deleter removed 17
+inserter added 17, (size=20)
+deleter removed 6
+inserter added 6, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 18
+inserter added 18, (size=20)
+deleter removed 19
+inserter added 19, (size=20)
+deleter removed 13
+inserter added 13, (size=20)
+deleter removed 12
+inserter added 12, (size=20)
+deleter removed 7
+

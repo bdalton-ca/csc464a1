@@ -1,0 +1,963 @@
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+customer joins table (party_size=1)
+customer eats sushi
+customer joins table (party_size=2)
+customer eats sushi
+customer joins table (party_size=3)
+customer eats sushi
+customer joins table (party_size=4)
+customer eats sushi
+customer joins table (party_size=5)
+There is a full party of customers
+customer eats sushi
+party leaves table
+init time: 0.000000
+proc time: 11.000732
+full time: 11.000732

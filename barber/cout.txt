@@ -1,0 +1,303 @@
+customer enters queue (waiting=1)
+customer enters queue (waiting=2)
+customer enters queue (waiting=3)
+customer enters queue (waiting=4)
+customer enters queue (waiting=5)
+customer enters queue (waiting=6)
+customer enters queue (waiting=7)
+customer enters queue (waiting=8)
+customer enters queue (waiting=9)
+customer enters queue (waiting=10)
+customer enters queue (waiting=11)
+customer enters queue (waiting=12)
+customer enters queue (waiting=13)
+customer enters queue (waiting=14)
+customer enters queue (waiting=15)
+customer enters queue (waiting=16)
+customer enters queue (waiting=17)
+customer enters queue (waiting=18)
+customer enters queue (waiting=19)
+customer enters queue (waiting=20)
+barber enters shop
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+customer enters queue (waiting=20)
+barber services customer (waiting=19)
+customer leaves shop
+barber services customer (waiting=18)
+customer leaves shop
+barber services customer (waiting=17)
+customer leaves shop
+barber services customer (waiting=16)
+customer leaves shop
+barber services customer (waiting=15)
+customer leaves shop
+barber services customer (waiting=14)
+customer leaves shop
+barber services customer (waiting=13)
+customer leaves shop
+barber services customer (waiting=12)
+customer leaves shop
+barber services customer (waiting=11)
+customer leaves shop
+barber services customer (waiting=10)
+customer leaves shop
+barber services customer (waiting=9)
+customer leaves shop
+barber services customer (waiting=8)
+customer leaves shop
+barber services customer (waiting=7)
+customer leaves shop
+barber services customer (waiting=6)
+customer leaves shop
+barber services customer (waiting=5)
+customer leaves shop
+barber services customer (waiting=4)
+customer leaves shop
+barber services customer (waiting=3)
+customer leaves shop
+barber services customer (waiting=2)
+customer leaves shop
+barber services customer (waiting=1)
+customer leaves shop
+barber services customer (waiting=0)
+barber exits shop
+customer leaves shop
+duration: 0.014000

@@ -1,0 +1,218 @@
+Ready to load
+1 passengers have boarded,
+2 passengers have boarded,
+3 passengers have boarded,
+4 passengers have boarded,
+5 passengers have boarded,
+6 passengers have boarded,
+7 passengers have boarded,
+8 passengers have boarded,
+9 passengers have boarded,
+10 passengers have boarded,
+11 passengers have boarded,
+12 passengers have boarded,
+13 passengers have boarded,
+14 passengers have boarded,
+15 passengers have boarded,
+16 passengers have boarded,
+17 passengers have boarded,
+18 passengers have boarded,
+19 passengers have boarded,
+20 passengers have boarded,
+Car is running
+Car is unloading
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+Ready to load
+1 passengers have boarded,
+2 passengers have boarded,
+3 passengers have boarded,
+4 passengers have boarded,
+5 passengers have boarded,
+6 passengers have boarded,
+7 passengers have boarded,
+8 passengers have boarded,
+9 passengers have boarded,
+10 passengers have boarded,
+11 passengers have boarded,
+12 passengers have boarded,
+13 passengers have boarded,
+14 passengers have boarded,
+15 passengers have boarded,
+16 passengers have boarded,
+17 passengers have boarded,
+18 passengers have boarded,
+19 passengers have boarded,
+20 passengers have boarded,
+Car is running
+Car is unloading
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+Ready to load
+1 passengers have boarded,
+2 passengers have boarded,
+3 passengers have boarded,
+4 passengers have boarded,
+5 passengers have boarded,
+6 passengers have boarded,
+7 passengers have boarded,
+8 passengers have boarded,
+9 passengers have boarded,
+10 passengers have boarded,
+11 passengers have boarded,
+12 passengers have boarded,
+13 passengers have boarded,
+14 passengers have boarded,
+15 passengers have boarded,
+16 passengers have boarded,
+17 passengers have boarded,
+18 passengers have boarded,
+19 passengers have boarded,
+20 passengers have boarded,
+Car is running
+Car is unloading
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+Ready to load
+1 passengers have boarded,
+2 passengers have boarded,
+3 passengers have boarded,
+4 passengers have boarded,
+5 passengers have boarded,
+6 passengers have boarded,
+7 passengers have boarded,
+8 passengers have boarded,
+9 passengers have boarded,
+10 passengers have boarded,
+11 passengers have boarded,
+12 passengers have boarded,
+13 passengers have boarded,
+14 passengers have boarded,
+15 passengers have boarded,
+16 passengers have boarded,
+17 passengers have boarded,
+18 passengers have boarded,
+19 passengers have boarded,
+20 passengers have boarded,
+Car is running
+Car is unloading
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+Ready to load
+1 passengers have boarded,
+2 passengers have boarded,
+3 passengers have boarded,
+4 passengers have boarded,
+5 passengers have boarded,
+6 passengers have boarded,
+7 passengers have boarded,
+8 passengers have boarded,
+9 passengers have boarded,
+10 passengers have boarded,
+11 passengers have boarded,
+12 passengers have boarded,
+13 passengers have boarded,
+14 passengers have boarded,
+15 passengers have boarded,
+16 passengers have boarded,
+17 passengers have boarded,
+18 passengers have boarded,
+19 passengers have boarded,
+20 passengers have boarded,
+Car is running
+Car is unloading
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+passenger unboarded
+Ready to load
+init time: 3.000000
+proc time: 3.000000
